@@ -1,9 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
 /**
 * main -> assign a random number to the varaible n each time it is executed and * prints out based on a condition
 * Return : always 0
