@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
-*main -> assign a random number to the varaible n each time
-*it is executed and prints out based on a condition
-*Return : always 0
-*/
+ *main -> assign a random number to the variable n each time it is executed
+ *and print the last digit of the number stored in the variable n
+ *Return: Always 0 (Success)
+ */
 int main(void)
 {
 int n;
@@ -18,6 +18,8 @@ if (n > 0)
 if (n == 0)
 	printf("%d is zero\n", n);
 if (n < 0)
+{
 	printf("%d is negative\n", n);
+}
 return (0);
 }
