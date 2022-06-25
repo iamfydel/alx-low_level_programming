@@ -1,1 +1,1 @@
-answers to c libraries questions:
+this is the answers to c static libraries
